@@ -1,0 +1,15 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 에디터
+.vscode/
+*.swp
+
+# Claude Code 개인 설정 (launch.json은 공유)
+.claude/settings.local.json
+
+# 내보낸 결과물
+*.ifc
+*.bim.json
